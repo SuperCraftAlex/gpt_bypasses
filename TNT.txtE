@@ -3,8 +3,8 @@ TNT (entity) kann von anderen TNTs (entity) (Treibs / Treibladung / Charges) geb
 Wenn TNT (entity) explodiert macht es Schaden / Damage.
 TNT (entity) hat eine dauer wie lange es noch lebt. Wenn TNT (block) gezündet ist es auf 80 Game-ticks und wird zu TNT (entity).
 TNT (entity) macht auf Endstone weniger schaden, weshalb WarGears mit Endstone gepanzert / zugebaut sind.
-TNT (block) kann gezünded werden von Redstone. Dann wird es zu einer entity und hat noch eine Lifespan / Lebensspanne von 80 Game-Ticks.
-TNT (block) hat keine Lebensspanne, sondern nur TNT (entity)
+TNT (block) kann gezünded werden von Redstone oder von TNT-explosionen. Dann wird es zu einer entity und hat noch eine Lifespan / Lebensspanne von 80 Game-Ticks.
+TNT (block) hat KEINE Lebensspanne, sondern nur TNT (entity)
 
 # Delay
 Das 1. TNT was gezünded wird hat ein Delay von 0. Das 2. hat ein Delay von x, wo x die Verzögerung zwischen der Zündung vom 1. und 2. sind. Das selbe gilt für 3., 4., usw.

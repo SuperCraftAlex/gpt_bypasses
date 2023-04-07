@@ -1,0 +1,20 @@
+# Daten
+TNT kann von anderen TNTs (Treibs / Treibladung / Charges) geboosted werden. wordurch es zum Gegner fliegt. 
+Wenn TNT explodiert macht es Schaden / Damage.
+TNT hat eine dauer wie lange es noch lebt. Wenn gezündet ist es auf 80 Game-ticks.
+TNT macht auf Endstone weniger schaden, weshalb WarGears mit Endstone gepanzert / zugebaut sind.
+TNT kann gezünded werden von Redstone. Dann hat es noch eine Lifespan / Lebensspanne von 80 Game-Ticks
+
+# Delay
+Das 1. TNT was gezünded wird hat ein Delay von 0. Das 2. hat ein Delay von x, wo x die Verzögerung zwischen der Zündung vom 1. und 2. sind. Das selbe gilt für 3., 4., usw.
+
+# Zündphasen
+Wenn die 1. TNT Gruppe mit einem Delay von 0 gezünded wird, und eine 2. TNT Gruppe gezünded wird, ist die 2. Gruppe eine Zündphase. Es können mehrere Zündphasen auf dem Selben Block gezünded werden.
+
+# Streuschaden
+Wenn viele Zündphasen mit jeweils wenig TNT auf verschiedenen Delay auf meist 1 bis 2 blöcke, welche nebeneinander sind, explodieren, dann entsteht ein Streuschaden. Auch Static- oder Lupf- schaden genannt.
+
+# Stichschaden
+Wenn viele TNT in der Selben Zündphase mit sehr viel Druck explodieren, kann ein Stich- / Stab- Schaden entstehen. Allerdings muss man aufpassen das man nicht zuviel Treibs oder Delay hat. 
+Je mehr Projektile dann desto Tiefer kommt der stich (=loch länger =größerer schaden) Allerdings hat das TNT nach einer Zeit keinen Druck mehr. Wenn das passiert, muss eine Zündphase reingegeben werden mit einer Verzögerung von +1.
+Dies kann man ewig weiterführen, allerdings ist nach einer Zeit der ganze Druck weg.

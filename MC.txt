@@ -1,0 +1,5 @@
+# Minecraft (auch MC oder mc genannt)
+
+2 Spiel-Ticks (Game-Ticks) sind 1 Redstone-Tick
+
+Spieler sind 2 meter hoch.

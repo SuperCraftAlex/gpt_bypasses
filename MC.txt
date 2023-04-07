@@ -1,5 +1,7 @@
 # Minecraft (auch MC oder mc genannt)
 
-2 Spiel-Ticks (Game-Ticks) sind 1 Redstone-Tick
+2 Spiel-Ticks (Game-Ticks) sind 1 Redstone-Tick.
+
+20 Spiel-Ticks ist 1 Sekunde.
 
 Spieler sind 2 meter hoch.
